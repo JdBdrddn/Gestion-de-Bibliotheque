@@ -1,0 +1,13 @@
+/build/ /cmake-build-*/
+ CMakeFiles/
+ CMakeCache.txt
+ _deps/
+ Testing/
+ .idea/
+ *.exe
+ *.o
+ *.obj
+ *.log
+ *.user
+ *.vcxproj*
+ *.sln

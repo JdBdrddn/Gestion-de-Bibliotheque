@@ -1,0 +1,41 @@
+1 The_C_Programming_Language Brian_Kernighan 1
+2 Clean_Code Robert_Martin 1
+3 Design_Patterns Erich_Gamma 1
+4 Introduction_to_Algorithms Thomas_Cormen 1
+5 The_Pragmatic_Programmer Andrew_Hunt 1
+6 Code_Complete Steve_McConnell 1
+7 Refactoring Martin_Fowler 1
+8 Structure_and_Interpretation_of_Computer_Programs Harold_Abelson 1
+9 Artificial_Intelligence Stuart_Russell 1
+10 Operating_System_Concepts Abraham_Silberschatz 1
+11 Computer_Networks Andrew_Tanenbaum 1
+12 Database_System_Concepts Abraham_Silberschatz 1
+13 Compilers Alfred_Aho 1
+14 Computer_Architecture John_Hennessy 1
+15 Python_Crash_Course Eric_Matthes 1
+16 JavaScript_The_Good_Parts Douglas_Crockford 1
+17 Head_First_Design_Patterns Eric_Freeman 1
+18 The_Art_of_Computer_Programming Donald_Knuth 1
+19 Effective_Java Joshua_Bloch 1
+20 Programming_Pearls Jon_Bentley 1
+21 The_Linux_Command_Line William_Shotts 1
+22 Deep_Learning Ian_Goodfellow 1
+23 Agile_Software_Development Robert_Martin 1
+24 The_Mythical_Man-Month Frederick_Brooks 1
+25 You_Dont_Know_JS Kyle_Simpson 1
+26 Grokking_Algorithms Aditya_Bhargava 1
+27 The_Algorithm_Design_Manual Steven_Skiena 1
+28 Domain-Driven_Design Eric_Evans 1
+29 Continuous_Delivery Jez_Humble 1
+30 Test-Driven_Development Kent_Beck 1
+$
+1001 Alice Dupont
+1002 Bob Martin
+1003 Charlie Garcia
+1004 David Wilson
+1005 Eva Martinez
+1006 Frank Johnson
+1007 Grace Lee
+1008 Henry Brown
+1009 Irene Davis
+1010 Jack Miller
