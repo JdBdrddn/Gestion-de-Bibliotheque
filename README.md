@@ -32,18 +32,18 @@ L’objectif principal est d’appliquer les principes de la programmation orien
 
 ## 3. Compilation et exécution
 
-Prérequis
+###Prérequis
 - CMake 3.22 ou plus
 - Compilateur C++14 ou supérieur
 
-Étapes
+###Étapes
 ```bash
 mkdir build
 cd build
 cmake ..
 cmake --build .
 ./CodeTP1
-
+---
 ## 4.Exemple d'execution (Menu console)
 === Menu Principal ===
 1. Charger la bibliotheque
