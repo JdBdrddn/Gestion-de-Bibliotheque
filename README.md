@@ -44,7 +44,7 @@ cmake ..
 cmake --build .
 ./CodeTP1
 
-##Exemple d'execution (Menu console)
+## 4.Exemple d'execution (Menu console)
 === Menu Principal ===
 1. Charger la bibliotheque
 2. Afficher la liste des livres et des emprunteurs
