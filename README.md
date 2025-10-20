@@ -1,7 +1,7 @@
 # Gestion de bibliothèque (C++ / CMake)
 
 Ce projet implémente un système console permettant de gérer une bibliothèque contenant des livres et des emprunteurs.  
-Il s’agit d’un projet académique développé dans le cadre du cours IFT-2008.  
+Il s’agit d’un projet académique développé dans le cadre du cours IFT-2008 à l'Université Laval.  
 L’objectif principal est d’appliquer les principes de la programmation orientée objet en C++ et le concept de "Design by Contract".
 
 ---
@@ -43,12 +43,4 @@ cd build
 cmake ..
 cmake --build .
 ./CodeTP1
----
-## 4.Exemple d'execution (Menu console)
-=== Menu Principal ===
-1. Charger la bibliotheque
-2. Afficher la liste des livres et des emprunteurs
-3. Emprunter un livre
-4. Retourner un livre
-5. Verifier si un livre est en retard
-6. Quitter
+
